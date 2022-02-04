@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Aaravraj445
+- 👀 I’m interested in coding, AI/ML, WEB DEVELOPEMENT
+- 🌱 I’m currently learning C++ and java language
+- 💞️ I am currently pursuing btech in ece from iiit hyderabad
+- 📫 YOU CAN REACH ME VIA LINKEDIN AND TWITTER
